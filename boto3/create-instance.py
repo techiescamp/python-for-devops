@@ -19,7 +19,7 @@ def createSecurityGroup():
     global security_group_id
     try:
         response = ec2.create_security_group(GroupName=app_name + "-sg",
-                                            Description=app_name + "Security Group",
+                                            Description=app_name + " Security Group",
                                             VpcId=vpc_id,
                                             TagSpecifications=[
                                                     {
@@ -36,31 +36,31 @@ def createSecurityGroup():
         security_group_id = response['GroupId']
         print('Security Group Created %s in vpc %s.' % (security_group_id, vpc_id))
 
-        data = ec2.authorize_security_group_ingress(
-            GroupId=security_group_id,
-            IpPermissions=[
-                {
-                    'IpProtocol': 'tcp',
-                    'FromPort': 80,
-                    'ToPort': 80,
-                    'IpRanges': [
-                        {
-                            'CidrIp': '0.0.0.0/0'
-                        }
-                    ]
-                },
-                {
-                    'IpProtocol': 'tcp',
-                    'FromPort': 22,
-                    'ToPort': 22,
-                    'IpRanges': [
-                        {
-                            'CidrIp': '0.0.0.0/0'
-                        }
-                    ]
-                }
-            ])
-        print('Ingress Successfully Set %s' % data)
+        ingress = ec2.authorize_security_group_ingress(
+                            GroupId=security_group_id,
+                            IpPermissions=[
+                                {
+                                    'IpProtocol': 'tcp',
+                                    'FromPort': 80,
+                                    'ToPort': 80,
+                                    'IpRanges': [
+                                        {
+                                            'CidrIp': '0.0.0.0/0'
+                                        }
+                                    ]
+                                },
+                                {
+                                    'IpProtocol': 'tcp',
+                                    'FromPort': 22,
+                                    'ToPort': 22,
+                                    'IpRanges': [
+                                        {
+                                            'CidrIp': '0.0.0.0/0'
+                                        }
+                                    ]
+                                }
+                            ])
+        print('Ingress Successfully Set %s' % ingress)
     except ClientError as e:
         print(e)
 
@@ -71,7 +71,7 @@ def createKeyPair():
 
         ssh_private_key = key_pair["KeyMaterial"]
         
-        with os.fdopen(os.open(key_location + "app-key.pem", os.O_WRONLY | os.O_CREAT, 0o400), "w+") as handle:
+        with os.fdopen(os.open(key_location + key_name + ".pem", os.O_WRONLY | os.O_CREAT, 0o400), "w+") as handle:
             handle.write(ssh_private_key)
     except ClientError as e:
         print(e)
