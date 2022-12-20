@@ -1,0 +1,492 @@
+[
+    {
+      "artist": "Romero Allen",
+      "song": "Atomic Dim",
+      "id": "b4b0da3f-36e3-4569-b196-3ad982f72bbd",
+      "priceUsdCents": 392,
+      "publisher": "QUAREX"
+    },
+    {
+      "artist": "Hilda Barnes",
+      "song": "Almond Dutch",
+      "id": "eeb58c73-603f-4d6b-9e3b-cf587488f488",
+      "priceUsdCents": 161,
+      "publisher": "LETPRO"
+    },
+    {
+      "artist": "Hall Ramos",
+      "song": "Carmine Drab",
+      "id": "951637bd-59ef-4448-93f5-e179bfbd20a0",
+      "priceUsdCents": 370,
+      "publisher": "BRAINQUIL"
+    },
+    {
+      "artist": "Chang Vance",
+      "song": "Aureolin Dodger",
+      "id": "29f5dea2-2bd1-4d13-bf33-7aadc4f14ef2",
+      "priceUsdCents": 324,
+      "publisher": "DIGIAL"
+    },
+    {
+      "artist": "May Tanner",
+      "song": "Cadmium Cultured",
+      "id": "483b1787-a9fd-4ec8-bf16-5ec122bb559a",
+      "priceUsdCents": 146,
+      "publisher": "CHORIZON"
+    },
+    {
+      "artist": "Tillman Watkins",
+      "song": "Cameo Dark",
+      "id": "18f42c1e-8a91-47f9-829e-836ee1a49a17",
+      "priceUsdCents": 173,
+      "publisher": "OTHERWAY"
+    },
+    {
+      "artist": "Naomi Petersen",
+      "song": "Candy Earth",
+      "id": "0ed05345-3dfa-4ea4-a59a-6c015153c9d5",
+      "priceUsdCents": 249,
+      "publisher": "SONIQUE"
+    },
+    {
+      "artist": "Kristin Olson",
+      "song": "Banana Eerie",
+      "id": "f4ea8c5a-1a5b-4d4b-94cf-74da68c543e6",
+      "priceUsdCents": 246,
+      "publisher": "AMTAP"
+    },
+    {
+      "artist": "Marta Frost",
+      "song": "Apple Chinese",
+      "id": "5cd6c545-655c-491d-bc7c-1aaa8569b26c",
+      "priceUsdCents": 181,
+      "publisher": "ZAGGLES"
+    },
+    {
+      "artist": "Etta Anderson",
+      "song": "Antique English",
+      "id": "ba865a03-8666-4074-8e47-15bcc707fa6e",
+      "priceUsdCents": 143,
+      "publisher": "DATACATOR"
+    },
+    {
+      "artist": "Charlotte Cooley",
+      "song": "Amaranth Dim",
+      "id": "fb4aad81-24c0-4d79-ac34-264923e99464",
+      "priceUsdCents": 121,
+      "publisher": "KEENGEN"
+    },
+    {
+      "artist": "Elise Pugh",
+      "song": "Bright Cerulean",
+      "id": "5ac17e68-e6c3-43f6-a305-5c63ac39307f",
+      "priceUsdCents": 389,
+      "publisher": "CUJO"
+    },
+    {
+      "artist": "Tamika Austin",
+      "song": "Camel Flickr",
+      "id": "a89ac751-89ba-41e9-9e86-60605b3139f4",
+      "priceUsdCents": 392,
+      "publisher": "TECHMANIA"
+    },
+    {
+      "artist": "Claire Sharp",
+      "song": "Beaver Electric",
+      "id": "f9ab6076-3582-479e-877e-f27d5c0919d9",
+      "priceUsdCents": 209,
+      "publisher": "PORTICO"
+    },
+    {
+      "artist": "Lilian Horton",
+      "song": "Bright Coral",
+      "id": "634d096f-edc1-4452-a73c-d417c7e46c04",
+      "priceUsdCents": 227,
+      "publisher": "GUSHKOOL"
+    },
+    {
+      "artist": "Reba George",
+      "song": "Bone Coquelicot",
+      "id": "a0d5a2c1-7086-46a5-98ea-36724a296728",
+      "priceUsdCents": 124,
+      "publisher": "MANGLO"
+    },
+    {
+      "artist": "Ruiz Vaughn",
+      "song": "Byzantium Feldgrau",
+      "id": "202cb417-0b2b-4809-8993-0916aa62ff67",
+      "priceUsdCents": 223,
+      "publisher": "RONBERT"
+    },
+    {
+      "artist": "Wilcox Contreras",
+      "song": "Brink Cocoa",
+      "id": "c7763312-b732-4ad9-8d58-295f36e3f411",
+      "priceUsdCents": 214,
+      "publisher": "ZENTIA"
+    },
+    {
+      "artist": "Jodi Ruiz",
+      "song": "Auburn Chartreuse",
+      "id": "ab89362d-3ef7-461e-a093-60aa2e28eb07",
+      "priceUsdCents": 215,
+      "publisher": "ZOLAVO"
+    },
+    {
+      "artist": "Potter Keith",
+      "song": "Arctic CG",
+      "id": "e52cb1f0-2459-4c60-9841-4497fcdab5a9",
+      "priceUsdCents": 173,
+      "publisher": "CIRCUM"
+    },
+    {
+      "artist": "Wilson Randall",
+      "song": "Black Coral",
+      "id": "6726183b-0b9a-4060-a1c6-6dec1e726070",
+      "priceUsdCents": 206,
+      "publisher": "GEEKUS"
+    },
+    {
+      "artist": "Morrow Camacho",
+      "song": "Bittersweet Poetic",
+      "id": "23edaed1-d443-4e53-bbbd-c54dc8d3bf5f",
+      "priceUsdCents": 182,
+      "publisher": "MEDESIGN"
+    },
+    {
+      "artist": "Clayton Sears",
+      "song": "Bitter Dodger",
+      "id": "17afec57-4fcc-46c0-a63d-04c1ff60f9a2",
+      "priceUsdCents": 275,
+      "publisher": "ZOXY"
+    },
+    {
+      "artist": "Nicholson Pate",
+      "song": "Cedar CG",
+      "id": "af78e70f-67c3-4582-80a5-3b4ae04d4695",
+      "priceUsdCents": 193,
+      "publisher": "MYOPIUM"
+    },
+    {
+      "artist": "Madeleine Rivers",
+      "song": "Bisque Congo",
+      "id": "596626a8-c54b-4d88-9925-0415d4ab589d",
+      "priceUsdCents": 137,
+      "publisher": "LINGOAGE"
+    },
+    {
+      "artist": "Jeannie Benton",
+      "song": "Caribbean Denim",
+      "id": "802afc05-3e72-4c51-b234-7e16a63150e2",
+      "priceUsdCents": 122,
+      "publisher": "XURBAN"
+    },
+    {
+      "artist": "Jefferson Burks",
+      "song": "Buff Copper",
+      "id": "90ad25a1-a562-4b56-8f0b-aac08e13fd02",
+      "priceUsdCents": 162,
+      "publisher": "ZEAM"
+    },
+    {
+      "artist": "Diann Osborn",
+      "song": "Carmine Fallow",
+      "id": "b654e7dd-a907-4fda-8913-d7c12b65b556",
+      "priceUsdCents": 357,
+      "publisher": "HIVEDOM"
+    },
+    {
+      "artist": "Rose Rowe",
+      "song": "Air Cornsilk",
+      "id": "c8c124b1-2f03-4f36-aedd-9bee047914e7",
+      "priceUsdCents": 128,
+      "publisher": "IDETICA"
+    },
+    {
+      "artist": "Ilene Mays",
+      "song": "Blanched Celadon",
+      "id": "e2c2e0b4-bb86-4737-a9c3-3135c345e0a5",
+      "priceUsdCents": 243,
+      "publisher": "FUTURIZE"
+    },
+    {
+      "artist": "Margarita Dawson",
+      "song": "Baby Claret",
+      "id": "fd86fe4f-384e-494a-ae91-f3f2fd49a06d",
+      "priceUsdCents": 244,
+      "publisher": "KATAKANA"
+    },
+    {
+      "artist": "Dominguez Rocha",
+      "song": "Brink CG",
+      "id": "64acc7ea-d104-43d2-8845-33c7678af85d",
+      "priceUsdCents": 100,
+      "publisher": "SLOGANAUT"
+    },
+    {
+      "artist": "Edith Petty",
+      "song": "Bistre Chocolate",
+      "id": "8b250802-7b4d-4fdd-ae44-d68fbcfef386",
+      "priceUsdCents": 144,
+      "publisher": "ZILIDIUM"
+    },
+    {
+      "artist": "Rutledge Rosario",
+      "song": "Alabaster Copper",
+      "id": "b52dc941-f641-4450-9c5f-24ed83593325",
+      "priceUsdCents": 244,
+      "publisher": "SULFAX"
+    },
+    {
+      "artist": "Lillian Zamora",
+      "song": "Bittersweet Sunday",
+      "id": "64b6f717-2524-48ae-b582-c6b059f31a93",
+      "priceUsdCents": 220,
+      "publisher": "SOLAREN"
+    },
+    {
+      "artist": "Walter Villarreal",
+      "song": "Candy Flax",
+      "id": "d043213f-01fc-4086-83df-e852b6450605",
+      "priceUsdCents": 297,
+      "publisher": "RETRACK"
+    },
+    {
+      "artist": "Christensen Sandoval",
+      "song": "Buff Cerulean",
+      "id": "faec7ffb-0df0-4592-9b04-ea04a1ba8620",
+      "priceUsdCents": 125,
+      "publisher": "NITRACYR"
+    },
+    {
+      "artist": "Frances Hall",
+      "song": "Amber Poetic",
+      "id": "b0d3f55a-490c-49f3-a8cb-5bb873e14f27",
+      "priceUsdCents": 209,
+      "publisher": "ZIZZLE"
+    },
+    {
+      "artist": "Nadia Case",
+      "song": "Burnt Electric",
+      "id": "c87719b9-e166-471f-a0f6-209fca526583",
+      "priceUsdCents": 299,
+      "publisher": "TALKOLA"
+    },
+    {
+      "artist": "Faulkner Casey",
+      "song": "Cadmium Cinnamon",
+      "id": "01f63218-1ceb-400c-bbd7-4c33a8733b03",
+      "priceUsdCents": 324,
+      "publisher": "UNI"
+    },
+    {
+      "artist": "Kristen Gregory",
+      "song": "Brown English",
+      "id": "9790b013-ae7c-4afb-b166-37a0a012cc5b",
+      "priceUsdCents": 180,
+      "publisher": "INTERODEO"
+    },
+    {
+      "artist": "Hardy Alexander",
+      "song": "Aqua November",
+      "id": "464cd8a0-b5f6-43c1-a6d6-b548c13602f3",
+      "priceUsdCents": 289,
+      "publisher": "ISOPOP"
+    },
+    {
+      "artist": "Jerry Floyd",
+      "song": "Brown Dartmouth",
+      "id": "6bef9c2e-0610-49fa-b162-3446aa88757e",
+      "priceUsdCents": 338,
+      "publisher": "HOMETOWN"
+    },
+    {
+      "artist": "Nichole Phelps",
+      "song": "Blue Cultured",
+      "id": "c206da83-ad46-4655-86a5-aa95a5bb485e",
+      "priceUsdCents": 397,
+      "publisher": "XIXAN"
+    },
+    {
+      "artist": "Marguerite Mcclure",
+      "song": "Cedar Columbia",
+      "id": "4e01c867-3084-4ae4-9c8a-5b0750465037",
+      "priceUsdCents": 207,
+      "publisher": "TELEQUIET"
+    },
+    {
+      "artist": "Beach Evans",
+      "song": "Bright Coffee",
+      "id": "26d74b66-5bb7-46e6-89cb-b8864b8111bf",
+      "priceUsdCents": 120,
+      "publisher": "OHMNET"
+    },
+    {
+      "artist": "Clarke Peterson",
+      "song": "Carnelian Falu",
+      "id": "d708c366-0580-410b-a0d7-1f7c91ecc7c4",
+      "priceUsdCents": 339,
+      "publisher": "LUMBREX"
+    },
+    {
+      "artist": "Bertie Michael",
+      "song": "Ash Chinese",
+      "id": "d25ff9f9-25ae-459d-8591-7650106a3d11",
+      "priceUsdCents": 204,
+      "publisher": "CRUSTATIA"
+    },
+    {
+      "artist": "Barr Good",
+      "song": "Black Earth",
+      "id": "882c720a-a0ba-4fe1-9e02-eb2640a3677a",
+      "priceUsdCents": 153,
+      "publisher": "OCEANICA"
+    },
+    {
+      "artist": "Rios Sheppard",
+      "song": "Blanched Davy",
+      "id": "38ad21d5-679d-4352-bab6-11a03ea167d3",
+      "priceUsdCents": 222,
+      "publisher": "BUZZMAKER"
+    },
+    {
+      "artist": "Natalia Wooten",
+      "song": "Alloy Charleston",
+      "id": "107adc93-dcbb-4ffe-9259-ebe67cdfce32",
+      "priceUsdCents": 273,
+      "publisher": "GORGANIC"
+    },
+    {
+      "artist": "Hopkins Levine",
+      "song": "Blue China",
+      "id": "5df65ddf-afe7-4514-93c2-93f53885cf71",
+      "priceUsdCents": 248,
+      "publisher": "GINKLE"
+    },
+    {
+      "artist": "Monique Curry",
+      "song": "Aqua Cyclamen",
+      "id": "5148a24f-5c13-4861-96d7-ca957af1b16d",
+      "priceUsdCents": 226,
+      "publisher": "INTRADISK"
+    },
+    {
+      "artist": "Kirsten Decker",
+      "song": "Ash Cinnamon",
+      "id": "ca90e78f-d4d3-4af3-9b20-254254a4d922",
+      "priceUsdCents": 193,
+      "publisher": "COMTOURS"
+    },
+    {
+      "artist": "DJ DW",
+      "song": "Battleship Cinnamon",
+      "id": "ba66eb9d-f8b5-4924-a9e2-e8817e02b03a",
+      "priceUsdCents": 365,
+      "publisher": "MUSICMAN INC"
+    },
+    {
+      "artist": "Arturus Ardvarkian",
+      "song": "Bright Cerulean",
+      "id": "84024726-d9ba-4dd4-830d-1022f79eca97",
+      "priceUsdCents": 166,
+      "publisher": "GLOBOMANTICS MUSIC"
+    },
+    {
+      "artist": "DJ DW",
+      "song": "Black Crimson",
+      "id": "c79bcf38-d459-4479-a385-a27a9bdb558a",
+      "priceUsdCents": 370,
+      "publisher": "GLOBOMANTICS MUSIC"
+    },
+    {
+      "artist": "DJ DW",
+      "song": "Caribbean Citron",
+      "id": "8643a896-a7a9-4139-95cc-583e1710b2b1",
+      "priceUsdCents": 360,
+      "publisher": "MUSICMAN INC"
+    },
+    {
+      "artist": "Arturus Ardvarkian",
+      "song": "Carnelian Cobalt",
+      "id": "5e8d8ff7-25a7-41c6-a1fa-ac823fda0161",
+      "priceUsdCents": 311,
+      "publisher": "GLOBOMANTICS MUSIC"
+    },
+    {
+      "artist": "Professor RattyB",
+      "song": "Big Cyan",
+      "id": "209e59fb-68a5-45a1-aebb-f84447229a4e",
+      "priceUsdCents": 261,
+      "publisher": "MUSICMAN INC"
+    },
+    {
+      "artist": "Arturus Ardvarkian",
+      "song": "Bright Electric",
+      "id": "ced73077-f8c7-40d0-96ee-8d995baa080b",
+      "priceUsdCents": 273,
+      "publisher": "GLOBOMANTICS MUSIC"
+    },
+    {
+      "artist": "Professor RattyB",
+      "song": "Blanched Cornsilk",
+      "id": "88ca6ef9-8cd4-4a52-9c85-f7d7ac81c275",
+      "priceUsdCents": 192,
+      "publisher": "MUSICMAN INC"
+    },
+    {
+      "artist": "DJ DW",
+      "song": "Amaranth Fever",
+      "id": "00ea572d-a3ea-41dc-97f6-50af8b26cd13",
+      "priceUsdCents": 199,
+      "publisher": "GLOBOMANTICS MUSIC"
+    },
+    {
+      "artist": "Arturus Ardvarkian",
+      "song": "Cadmium Eggplant",
+      "id": "30af38c6-f32d-4e7b-a571-e8641247b975",
+      "priceUsdCents": 168,
+      "publisher": "GLOBOMANTICS MUSIC"
+    },
+    {
+      "artist": "Arturus Ardvarkian",
+      "song": "Bleu Cinnamon",
+      "id": "f90cef82-bd0a-44a9-bd3a-bd743c140ced",
+      "priceUsdCents": 153,
+      "publisher": "GLOBOMANTICS MUSIC"
+    },
+    {
+      "artist": "Arturus Ardvarkian",
+      "song": "Carrot Eton",
+      "id": "dbea9bd8-fe1f-478a-a98a-5b46d481cf57",
+      "priceUsdCents": 161,
+      "publisher": "MUSICMAN INC"
+    },
+    {
+      "artist": "Arturus Ardvarkian",
+      "song": "Baker Firebrick",
+      "id": "1a4e5bc5-4fa3-4b37-9d36-e15dc9ab6b21",
+      "priceUsdCents": 312,
+      "publisher": "MUSICMAN INC"
+    },
+    {
+      "artist": "Arturus Ardvarkian",
+      "song": "Cadet Celadon",
+      "id": "fd7667cb-3a41-4777-93bb-ed2d0d8d7458",
+      "priceUsdCents": 142,
+      "publisher": "MUSICMAN INC"
+    },
+    {
+      "artist": "DJ DW",
+      "song": "Byzantine Charcoal",
+      "id": "5ab5351f-212a-4fcc-9a76-b5bfbc5d18a0",
+      "priceUsdCents": 174,
+      "publisher": "MUSICMAN INC"
+    },
+    {
+      "artist": "Arturus Ardvarkian",
+      "song": "Brick Cerulean",
+      "id": "65ce7700-c32d-415c-9bf4-26f4e4911372",
+      "priceUsdCents": 381,
+      "publisher": "GLOBOMANTICS MUSIC"
+    }
+  ]
