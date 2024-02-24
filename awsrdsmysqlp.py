@@ -39,6 +39,7 @@ def execute_query(db_name, query):
                 else:
                     print("Empty result")
             else:
+                connection.commit()
                 print(f"{row_count} rows affected in {db}")          
         
         except Exception as e:
