@@ -51,7 +51,7 @@ If you are looking for a guided way to learn Python from scratch., I recommend t
 
 ## 🐳 Week 3: Docker & Python for Containerized Applications
 
-### 🎯 Goal:** Learn to containerize Python applications for DevOps automation.
+### 🎯 Goal: Learn to containerize Python applications for DevOps automation.
 
 ✅ Writing Dockerfiles for Python apps  
 ✅ Running Python scripts inside containers  
@@ -75,8 +75,6 @@ If you are looking for a guided way to learn Python from scratch., I recommend t
 - Write a Python script that provisions AWS infrastructure (VPC, EC2, S3) using Terraform.
 - Automate Ansible playbook execution using Python.
 
----
-
 ## ☸️ Week 5: Kubernetes Automation with Python
 
 ### 🎯 Goal: Automate Kubernetes operations using Python.
@@ -88,7 +86,7 @@ If you are looking for a guided way to learn Python from scratch., I recommend t
 
 **🔨 Hands-on Project:**
 - Write a Python script that dynamically creates and deletes Kubernetes namespaces.
-- Build a **Mutating Admission Webhook** to enforce security policies in a cluster.
+- Build a Mutating Admission Webhook to enforce security policies in a cluster.
 
 ## 🔍 Week 6: Python for Security & Monitoring in DevOps.
 
@@ -113,14 +111,13 @@ If you are looking for a guided way to learn Python from scratch., I recommend t
 ✅ AI-powered log analysis using `LangChain` & `OpenAI API`  
 
 **🔨 Hands-on Project:**
-- Build an AI-powered chatbot that suggests **Kubernetes troubleshooting steps**.
-- Develop an **AI-based log anomaly detection system** that detects security threats.
+- Build an AI-powered chatbot that suggests Kubernetes troubleshooting steps.
+- Develop an AI-based log anomaly detection system that detects security threats.
 
----
 
 ## 🤖 Week 8: Agentic AI & Final Capstone Projects
 
-### 🎯 Goal: Implement **advanced AI-driven DevOps automation
+### 🎯 Goal: Implement advanced AI-driven DevOps automation
 
 ✅ Understanding Agentic AI for DevOps  
 ✅ AI-driven CI/CD pipeline optimization  
@@ -131,8 +128,6 @@ If you are looking for a guided way to learn Python from scratch., I recommend t
 1️⃣ **DevOps Dashboard API:** Build a FastAPI app that displays real-time Kubernetes metrics.  
 2️⃣ **Self-Healing Kubernetes System:** AI-powered Kubernetes operator that auto-heals pods based on anomaly detection.  
 3️⃣ **Intelligent CI/CD Analyzer:** AI-driven CI/CD log analyzer that suggests fixes based on failure patterns.
-
----
 
 ## 📢 Next Steps
 
