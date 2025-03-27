@@ -115,7 +115,7 @@ If you are looking for a guided way to learn Python from scratch., I recommend t
 - Develop an AI-based log anomaly detection system that detects security threats.
 
 
-## 🤖 Week 8: Agentic AI & Final Capstone Projects
+## 🤖 Week 8: Agentic AI 
 
 ### 🎯 Goal: Implement advanced AI-driven DevOps automation
 
