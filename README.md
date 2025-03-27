@@ -124,7 +124,8 @@ If you are looking for a guided way to learn Python from scratch., I recommend t
 ✅ Automating incident remediation using AI agents  
 ✅ Integrating AI with monitoring tools (Prometheus, Grafana)  
 
-### Final Capstone Projects
+## 💼 Final Capstone Projects
+
 1️⃣ **DevOps Dashboard API:** Build a FastAPI app that displays real-time Kubernetes metrics.  
 2️⃣ **Self-Healing Kubernetes System:** AI-powered Kubernetes operator that auto-heals pods based on anomaly detection.  
 3️⃣ **Intelligent CI/CD Analyzer:** AI-driven CI/CD log analyzer that suggests fixes based on failure patterns.
